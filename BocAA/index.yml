@@ -1,0 +1,3 @@
+default:
+  noMF: true
+  description: "Determine the structure of Boc-protected amino acids from NMR data."
