@@ -1,0 +1,72 @@
+[
+  {
+    "groupName": "BocAA",
+    "folderName": "BocAA",
+    "children": [
+      {
+        "id": "BXPV5w5uf2Q/A80m9N5g8ftz+vo=",
+        "description": "Determine the structure of Boc-protected amino acids from NMR data.",
+        "idCodeHash": "072cefedcd1a65074d9414d4c8a9a42d",
+        "file": "./BocAA/10_Exercise 1/index.json",
+        "title": "Exercise 1",
+        "selected": true,
+        "idCode": "dcvB@LAEwHhdiEXuUTp@@"
+      },
+      {
+        "id": "fxhMCYjN9tqMB8I0CfeAhXcE3zk=",
+        "description": "Determine the structure of Boc-protected amino acids from NMR data.",
+        "idCodeHash": "c0d921280760b6ac53f8a081fb27d21f",
+        "file": "./BocAA/20_Exercise 2/index.json",
+        "title": "Exercise 2",
+        "idCode": "dkNB@LAMOHhdiEKFjjihj`@",
+        "noStereoIDCodeHash": "3792825a47298f06cac2e5cb5e827261"
+      },
+      {
+        "id": "gSJfReBbz2o+tn3R3V87vcUm7w0=",
+        "description": "Determine the structure of Boc-protected amino acids from NMR data.",
+        "idCodeHash": "be44cedd362c9bbb8ffa2057137955e8",
+        "file": "./BocAA/30_Exercise 3/index.json",
+        "title": "Exercise 3",
+        "idCode": "do^J@LAMN|bbRdTlTZjjfiJRh@",
+        "noStereoIDCodeHash": "6e76194141230808c0dccdf5c921ac89",
+        "racemateIDCodeHash": "b2873f0a4ae7b9fb345f544f6231f275"
+      },
+      {
+        "id": "Bx5/ILGk0KJtJLR/Y2gUjrR3p4E=",
+        "description": "Determine the structure of Boc-protected amino acids from NMR data.",
+        "idCodeHash": "cc82d5d3f67b80f0b5219893f3aa5580",
+        "file": "./BocAA/40_Exercise 4/index.json",
+        "title": "Exercise 4",
+        "idCode": "f`~`P@L@QhvQQIRJVHqjjjZjEJ@@",
+        "noStereoIDCodeHash": "1d5df141aeba8f2d10ef34309120aa2d"
+      },
+      {
+        "id": "y+1qPNJHkLfARhXImssMoxm2a04=",
+        "description": "Determine the structure of Boc-protected amino acids from NMR data.",
+        "idCodeHash": "08bbc47a792d0c46dffe2fce78f76445",
+        "file": "./BocAA/50_Exercise 5/index.json",
+        "title": "Exercise 5",
+        "idCode": "f`~`p@L@QhsoYEDeHiXcFjjiihTh@@",
+        "noStereoIDCodeHash": "8c5a2a114bd592e2aa9fb9758e8ec7c7"
+      },
+      {
+        "id": "bgYqgVRgY9uYrtZ+EHJ3PmXvX7U=",
+        "description": "Determine the structure of Boc-protected amino acids from NMR data.",
+        "idCodeHash": "b6ef0fdd74cf41c6421828478b1eca0c",
+        "file": "./BocAA/60_Exercise 6/index.json",
+        "title": "Exercise 6",
+        "idCode": "do^B@LAMOHhdiEKEFjjijbj@@",
+        "noStereoIDCodeHash": "a0ca4755b5f84a363d6246a11a6a6762"
+      },
+      {
+        "id": "aAXictsigv2nfmb3qNc80ROZ7LM=",
+        "description": "Determine the structure of Boc-protected amino acids from NMR data.",
+        "idCodeHash": "24fcbd2aefc2daa3836063e4deacafbb",
+        "file": "./BocAA/70_Exercise 7/index.json",
+        "title": "Exercise 7",
+        "idCode": "f`~QP@L^@cQgYEDeHiXcFjjiihTh@@",
+        "noStereoIDCodeHash": "6252358066d510be9ca46ea2d2959d3d"
+      }
+    ]
+  }
+]
